@@ -8,9 +8,13 @@
 /* link the web font used for the level 1 heading here */
 
 h1 {
-  font-family: baskerville;
-  font-size: 100px;
-  margin 67;
+  font-family: baskerville, serif;
+  font-size: 5em;
+  border-bottom: 1px solid #ccc;
+  font-weight: normal;
+  margin: 0 0 5px;
+  padding-bottom: 10px;
+  
 }
 
 /*////////// Global Styles //////////*/
