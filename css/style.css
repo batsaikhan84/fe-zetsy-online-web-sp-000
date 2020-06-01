@@ -27,3 +27,11 @@ body {
 }
 
 /* Write all remaining styles here */
+.wrapper {
+  height: auto;
+  width: 100%;
+  border: 2px solid #F4E8AF;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
